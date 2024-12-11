@@ -1,7 +1,6 @@
 
-
 def soma(a, b):
-    return a + b
+    return a - b  # Erro proposital
 
 def subtrai(a, b):
     return a - b
